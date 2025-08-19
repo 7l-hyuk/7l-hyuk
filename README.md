@@ -10,7 +10,7 @@
 **Interests:** `System Architecture`, `Database`, `DevOps`
 <hr>
 
-### ⚙ PROJECTS
+### ⚙️ PROJECTS
 * **Global Lectures: 강의 다국어 번역 및 Voice Cloning을 활용한 더빙 서비스 개발**
 <br>풀스택 엔지니어, <i>2025년 4월 1일부터(진행)</i><br><br>
 <a href="https://github.com/Global-Lectures"><img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/></a>
