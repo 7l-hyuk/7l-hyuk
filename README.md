@@ -10,6 +10,13 @@
 **Interests:** `System Architecture`, `Database`, `DevOps`
 <hr>
 
+### 🚩 CAREER
+
+* **셀렉트스타(Selectstar)**
+<br>AI Engineer, <i>2025년 9월 1일부터(진행)</i><br><br>
+
+<hr>
+
 ### ⚙️ PROJECTS
 * **Global Lectures: 강의 다국어 번역 및 Voice Cloning을 활용한 더빙 서비스 개발**
 <br>풀스택 엔지니어, <i>2025년 4월 1일부터(진행)</i><br><br>
@@ -23,7 +30,7 @@
 <hr>
 
 
-### 📝 PUBLICATIONS
+### 📄 PUBLICATIONS
 * `KCI` **<a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003200827">기계학습 기반 단일 채널 EEG 수면 단계 분류 모델</a>** <br>이채린, 권기혁, 이소정 and 김종완<sup>*</sup> (2025). 적정기술학회지, 11(1), 31-40.
   
 * `KCI` **<a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003208936">신속한 스마트미디어 중독 성향 예측을 위한 설문 데이터 기반의 기계학습 모델</a>** <br>홍승현, 권기혁, 이서진 and 김종완<sup>*</sup> (2025). 정보처리학회 논문지, 14(5), 297-304.
@@ -35,7 +42,7 @@
 * **기계학습 기반 단일 채널 EEG 수면 단계 분류 모델** (2024. 11.) _ACK 2024 국내 학술 대회_
 <hr>
 
-### 🏅 AWARDS
+### 🎖️ AWARDS
 * <a href="https://drive.google.com/file/d/1YqRlXjdquMnddKClyvDSdeGggYLZ-APF/view">ACK 2024 국내 학술 대회 산학협동우수상 (2024. 11.)</a>
 <hr>
 
@@ -63,6 +70,7 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white"> 
     <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Apache Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white">
   <h3>Frontend</h3>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"> 
