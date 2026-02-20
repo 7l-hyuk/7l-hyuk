@@ -13,20 +13,22 @@
 ### 🚩 CAREER
 
 * **셀렉트스타(Selectstar)**
-<br>AI Engineer, <i>2025년 9월 1일부터 12월 31일까지</i>
-<br>독자 AI 파운데이션 모델 프로젝트에서 LLM 파인튜닝용 도메인 특화 QA 데이터셋 생성 파이프라인 설계 및 구현
+<br>AI 엔지니어, <i>2025년 9월 1일부터 12월 31일까지</i>
 
 <hr>
 
 ### ⚙️ PROJECTS
+* **독자 AI 파운데이션 모델 프로젝트(1차수): LLM 파인튜닝용 도메인 특화 QA 데이터셋 생성 파이프라인 설계 및 구현**
+<br>AI 엔지니어, <i>셀렉트스타(Selectstar), 2024년 5월 1일부터 9월 31일까지</i><br><br>
+
 * **Global Lectures: 강의 다국어 번역 및 Voice Cloning을 활용한 더빙 서비스 개발**
-<br>풀스택 엔지니어, <i>2025년 4월 1일부터(진행)</i><br><br>
+<br>풀스택 엔지니어, <i>2025년 4월 1일부터(진행)</i><br>
 <a href="https://github.com/Global-Lectures"><img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/></a>
 <a href="https://www.youtube.com/watch?v=9rjvL01eCfo&feature=youtu.be"><img src="https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white"/></a>
 <a href="https://www.notion.so/1bc99ffb8a38801bb57bdf4503b6ee98"><img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white"/></a> <br><br>
 
 * **EEG(뇌파) 단일 채널 기반 수면 단계 분류 모델 연구**
-<br>머신러닝 엔지니어, <i>BigLab 인공지능 연구소, 2024년 5월 1일부터 9월 31일까지</i><br><br>
+<br>머신러닝 연구원, <i>BigLab 인공지능 연구소, 2024년 5월 1일부터 9월 31일까지</i><br>
 <a href="https://github.com/7l-hyuk/Sleep-Stage-Classification"><img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/></a>
 <hr>
 
