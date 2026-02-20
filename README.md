@@ -13,7 +13,8 @@
 ### 🚩 CAREER
 
 * **셀렉트스타(Selectstar)**
-<br>AI Engineer, <i>2025년 9월 1일부터(진행)</i><br><br>
+<br>AI Engineer, <i>2025년 9월 1일부터 12월 31일까지</i>
+<br>독자 AI 파운데이션 모델 프로젝트에서 LLM 파인튜닝용 도메인 특화 QA 데이터셋 생성 파이프라인 설계 및 구현
 
 <hr>
 
@@ -76,3 +77,10 @@
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"> 
     <img src="https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=white"> 
 </div>
+
+<hr>
+
+### 🦎 PS
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=7lhyuk)](https://solved.ac/7lhyuk)
