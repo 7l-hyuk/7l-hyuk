@@ -80,7 +80,7 @@
 
 <hr>
 
-### PS
+### 🦎 PS
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=7lhyuk)](https://solved.ac/7lhyuk)
