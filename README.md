@@ -4,13 +4,15 @@
 
 ### 👨‍💻 PROFILE
 <a href="https://scholar.google.com/citations?hl=ko&user=SVR1hWoAAAAJ"><img src="https://img.shields.io/badge/Google Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white"/></a>
-<a href="https://orcid.org/0009-0004-5333-7675"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white"/></a>
 <a href="mailto:7lhyuk@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 **Interests:** `System Architecture`, `Database`, `DevOps`
 <hr>
 
-### 🚩 CAREER
+### 🚩 CAREER(OR EDUCATION)
+
+* **소프트웨어 마에스트로 17기**
+<br>백엔드 엔지니어, <i>(진행 중)</i>
 
 * **셀렉트스타(Selectstar)**
 <br>AI 엔지니어, <i>2025년 9월 1일부터 12월 31일까지</i>
